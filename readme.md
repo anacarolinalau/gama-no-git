@@ -4,6 +4,6 @@ A Gama Academy tem me ajudado, passo a passo as lógicas de programação, e com
 
 O git é ótimo para que o código não fique preso somente a uma pessoa. 
 
-Não fique perdido ou defasado. Saber o que já aocnteceu, e o que pode ser feito dentro de um código é excelente para a evolução de novas visões. 
+Não fique perdido ou defasado. Saber o que já aconteceu, e o que pode ser feito dentro de um código é excelente para a evolução de novas visões. 
 
 A imersão tem sido muito produtiva. E acho que o mundo já está bem diferente aos meus olhos. E aos seus?
